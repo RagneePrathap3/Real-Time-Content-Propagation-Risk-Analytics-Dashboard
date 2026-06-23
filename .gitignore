@@ -1,0 +1,15 @@
+.env
+**pycache**/
+*.pyc
+
+venv/
+.venv/
+
+*.pbix
+
+.idea/
+.vscode/
+
+*.log
+
+test_connection.py
